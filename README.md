@@ -1,6 +1,6 @@
 # FakeRobux Extension
 
-This browser extension for **Roblox** allows you to display fake Robux on your profile. It is designed for **educational purposes** and should be used responsibly.
+This browser extension for **Roblox** allows you to display fake Robux on your profile.
 
 ### Features:
 - Display a fake amount of Robux on the Roblox website.
