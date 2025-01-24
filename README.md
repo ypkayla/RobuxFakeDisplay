@@ -23,8 +23,6 @@ You can either clone this repository or download the files directly.
   ```bash
    https://github.com/ypkayla/RobuxFakeDisplay/archive/refs/heads/main.zip
 
-
-
 ## 2. Install the Extension Locally
 
 ### For Google Chrome / Opera:
