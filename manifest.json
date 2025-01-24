@@ -1,0 +1,21 @@
+{
+  "name": "CustomRobux",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "Changes The Displayed amount of Robux on your Account (Fake Robux).",
+  "permissions": ["storage"],
+  "content_scripts": [
+    {
+      "matches": ["https://www.roblox.com/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "logo.png"
+  },
+  "icons": {
+    "128": "logo.png"
+  },
+  "incognito": "split"
+}
